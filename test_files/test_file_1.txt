@@ -1,0 +1,14 @@
+this
+is
+a
+test
+file
+to
+count
+the
+number
+of
+lines
+in
+a
+file
