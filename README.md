@@ -1,2 +1,2 @@
-# file-line-counter
-Simple Python program to count the numer of lines in file(s)
+# Line Counter Program
+Simple Python program to count the number of lines in files in a specified folder.
